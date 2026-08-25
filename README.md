@@ -1,5 +1,7 @@
 # Schengen Visa Reviewer
 
+[中文](README.md) | [English](README.en.md)
+
 一个面向普通申请人的**短期申根旅游签证材料自检 Skill**。
 
 它不会预测或保证出签，而是在递交前帮你发现：材料缺失、日期冲突、行程不真实、资金解释不清和回国证据不足等问题。
