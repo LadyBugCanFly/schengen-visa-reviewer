@@ -1,0 +1,4 @@
+interface:
+  display_name: "申根签证材料审核"
+  short_description: "按官方要求与经验信号检查材料完整性、一致性及可解释风险"
+  default_prompt: "使用 $schengen-visa-reviewer 审核我的申根旅游签证材料，并按风险等级给出修改建议。"
